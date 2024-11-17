@@ -1,7 +1,7 @@
 # Raspberry Pi Powered Laptop
 
 ## Introduction
-Welcome to the Raspberry Pi Powered Laptop Project! 🌟💻! This project aims to create a compact, portable laptop using a Raspberry Pi. This DIY project is perfect for enthusiasts looking to build a low-cost, customizable laptop for everyday use. It promotes eco-friendliness by encouraging the reuse of components and reducing electronic waste. Notably, it costs only a quarter of the price of a traditional laptop.
+Welcome to the Raspberry Pi Powered Laptop Project! This project aims to create a compact, portable laptop using a Raspberry Pi. This DIY project is perfect for enthusiasts looking to build a low-cost, customizable laptop for everyday use. It promotes eco-friendliness by encouraging the reuse of components and reducing electronic waste. Notably, it costs only a quarter of the price of a traditional laptop.
 
 ## Scope of the Project
 This project is designed for everyone, including but not limited to:
